@@ -35,9 +35,18 @@ El dashboard fue construido utilizando **Streamlit** y librerías de visualizaci
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/tu-usuario/tu-repositorio.git
+
+```
+
 Instalar dependencias:
 
+```bash
 pip install streamlit pandas matplotlib seaborn
+
+```
+
+```bash
 Ejecutar el dashboard:
 
 python -m streamlit run dashboard.py
+```
