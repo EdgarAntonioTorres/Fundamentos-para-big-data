@@ -32,7 +32,7 @@ El dashboard fue construido utilizando **Streamlit** y librerías de visualizaci
 
 ## Cómo ejecutar el dashboard
 
-1. Clonar el repositorio:
+Clonar el repositorio:
 ```bash
 git clone https://github.com/EdgarAntonioTorres/Fundamentos-para-big-data
 
@@ -45,8 +45,8 @@ pip install streamlit pandas matplotlib seaborn
 
 ```
 
-```bash
 Ejecutar el dashboard:
 
+```bash
 python -m streamlit run dashboard.py
 ```
